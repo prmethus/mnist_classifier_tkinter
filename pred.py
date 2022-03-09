@@ -1,5 +1,3 @@
-# UNREADABLE CODE :) by Sarzil
-
 import tkinter, os, numpy as np
 from PIL import Image, ImageTk, ImageOps
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
